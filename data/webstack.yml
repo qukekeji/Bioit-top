@@ -1,12 +1,12 @@
 ---
 
-- taxonomy: 作者站点
+- taxonomy: 站长工具
   icon: fas fa-medal
   links:
-    - title: '史提芬先森 · 语雀'
+    - title: itdong'
       logo: y/yuque.webp
-      url: https://www.yuque.com/shenweiyan
-      description: 作者的语雀花园主页。
+      url: https://www.itdog.cn/ping/
+      description:在线ping。
     - title: Knowledge-Garden
       logo: k/knowledge-garden.webp
       url: https://github.com/shenweiyan/Knowledge-Garden
